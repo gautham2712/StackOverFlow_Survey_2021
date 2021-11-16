@@ -1,4 +1,4 @@
-# Udacity_proposal_
+# Udacity Proposal
 
 This article further tries to explore these aspects based on the 2021 StackOver flow survey results and see if we can find interesting insights about it 
 Source : https://insights.stackoverflow.com/survey/2021
