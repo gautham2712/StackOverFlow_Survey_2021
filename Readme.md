@@ -1,11 +1,15 @@
 # StackOverFlow Devloper Survey Analysis
 
+
 ## Table of Contents
 
 1. Introduction
 2. Data Source
-3. GitHub Repo
-4. Next Steps
+3. Inastallations
+4. GitHub Repo
+5. Summary
+6. Next Steps
+7. Ackowlegments
 
 
 ### 1. Introduction 
