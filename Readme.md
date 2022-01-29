@@ -42,7 +42,7 @@ With the explantory data analysis we can see that compensation, Age or experice 
 
 We need to further dig into the data to understand if mental issues are truly a factor affecting developers. We can develop a machine learning algorithm that can predict heath issues when we look at the last 5 years of responses.
 
-## 7. Acknowlegements
+## 7. Refernces
 
 Thanks to the data collected by Stackover flow. You can find the official published results here:
 
